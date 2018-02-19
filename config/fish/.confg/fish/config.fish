@@ -7,5 +7,5 @@ function fish_title
 	echo "Wadzaa Inc."
 end
 
-# THEME PURE #
-set fish_function_path /Users/sopraos/.config/fish/functions/theme-pure $fish_function_path
+# THEME #
+set fish_function_path /Users/sopraos/.config/fish/functions/theme $fish_function_path
