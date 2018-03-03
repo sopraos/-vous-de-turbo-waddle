@@ -9,3 +9,6 @@ end
 
 # THEME #
 set fish_function_path /Users/sopraos/.config/fish/functions/theme $fish_function_path
+
+# Alias
+alias phpd "php -S localhost:8000 -ddisplay_errors=1"
